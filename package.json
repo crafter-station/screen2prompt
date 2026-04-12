@@ -7,7 +7,8 @@
     "lint": "turbo run lint",
     "format": "prettier --write \"**/*.{ts,tsx,md}\"",
     "check-types": "turbo run check-types",
-    "dev:web": "turbo run dev --filter=@apps/web"
+    "dev:web": "turbo run dev --filter=@apps/web",
+    "build:worker": "turbo run build && cd apps/web && bunx --bun opennextjs-cloudflare build"
   },
   "devDependencies": {
     "prettier": "^3.7.4",
