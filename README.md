@@ -137,4 +137,4 @@ Pull requests are welcome. For major changes, open an issue first.
 
 [GPL v3](./LICENSE) — free to use, modify, and distribute. Derivative works must remain open source under GPL v3.
 
-Made by [Supalab Dev](https://supalab.dev).
+Made by [Crafter Station](https://www.crafterstation.com/).
